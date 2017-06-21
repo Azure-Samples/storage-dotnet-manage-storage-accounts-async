@@ -4,7 +4,7 @@ platforms: .Net
 author: hovsepm
 ---
 
-#Getting Started with Storage - Manage Storage Account Async - in .Net #
+# Getting Started with Storage - Manage Storage Account Async - in .Net #
 
           Azure Storage sample for managing storage accounts -
            - Create a storage account
