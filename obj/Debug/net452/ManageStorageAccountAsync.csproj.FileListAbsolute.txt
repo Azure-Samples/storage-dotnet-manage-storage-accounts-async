@@ -1,0 +1,4 @@
+C:\Sources\dotnet-samples\storage-dotnet-manage-storage-accounts-async\bin\Debug\net452\ManageStorageAccountAsync.runtimeconfig.json
+C:\Sources\dotnet-samples\storage-dotnet-manage-storage-accounts-async\bin\Debug\net452\ManageStorageAccountAsync.runtimeconfig.dev.json
+C:\Sources\dotnet-samples\storage-dotnet-manage-storage-accounts-async\obj\Debug\net452\ManageStorageAccountAsync.csproj.ManageStorageAccountAsync.exe.config
+C:\Sources\dotnet-samples\storage-dotnet-manage-storage-accounts-async\obj\Debug\net452\ManageStorageAccountAsync.csproj.CoreCompileInputs.cache
