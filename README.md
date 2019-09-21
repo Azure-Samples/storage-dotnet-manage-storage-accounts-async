@@ -7,6 +7,7 @@ products:
 extensions:
 - services: Storage
 - platforms: dotnet
+description: "Azure Storage sample for managing storage accounts."
 ---
 
 # Getting started on managing storage accounts in C# asynchronously #
